@@ -22,3 +22,5 @@ DataFrame.describe(include = None, exclude = None)
 #
 # .. your code here ..
 
+df = ix[2:4, 'col3']
+print(df)
